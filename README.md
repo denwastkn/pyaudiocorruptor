@@ -1,6 +1,6 @@
 
 
-# Python Audio Corruptor (a sequel to (Python Video Corruptor)[https://github.com/denwastkn/pyvidcorruptor/])
+# Python Audio Corruptor (a sequel to [Python Video Corruptor](https://github.com/denwastkn/pyvidcorruptor/))
 FFmpeg is required! ⚠️
 To install ffmpeg, follow the guide below.
 
