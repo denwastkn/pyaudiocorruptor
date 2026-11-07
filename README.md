@@ -72,4 +72,6 @@ To run it :
 ```
 python pyaudiocorruptor.py
 ```
+
+# Make sure the output ends in .wav or it will fail
 This is easy to modify.
